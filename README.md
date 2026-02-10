@@ -3,7 +3,7 @@
 🧠 GENIUS: Generative Fluid Intelligence Evaluation Suite
 </h1>
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange)](https://huggingface.co/datasets/HankYang428/GENIUS) [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://github.com/HankYang428/GENIUS)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange)](https://huggingface.co/datasets/HankYang428/GENIUS) [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://github.com/arctanxarc/GENIUS)
 
 </div>
 
@@ -11,12 +11,14 @@
 
 [Ruichuan An](https://github.com/arctanxarc)<sup>\*</sup>, [Sihan Yang](https://github.com/Hhankyangg)<sup>*</sup>, [Ziyu Guo](), [Wei Dai](), [Zijun Shen](), [Haodong Li]() <br> [Renrui Zhang]()<sup>†</sup>, [Xinyu Wei](), [Guopeng Li](), [Wenshan Wu](), [Wentao Zhang]()<sup>‡</sup>
 
+PKU, CUHK, StepFun, PolyU, MSRA.
+
 <sup>*</sup> Equal Contribution &nbsp;&nbsp;&nbsp; <sup>†</sup> Project Leader &nbsp;&nbsp;&nbsp; <sup>‡</sup> Corresponding Author
 
 </div>
 
 <p align="center">
-  <a href=""><b>📄 Paper</b></a> |
+  <a href="https://github.com/arctanxarc/GENIUS/blob/5837bd987b138ad0631115671d5f98e60b44ac1d/GENIUS.pdf"><b>📄 Paper</b></a> |
   <a href="#-quick-start"><b>🚀 Quick Start</b></a> |
   <a href="#1-download-the-test-dataset"><b>📦 Dataset</b></a> |
   <a href="#-license"><b>📜 License</b></a> |
@@ -37,7 +39,7 @@
 ### 1. Download the Test Dataset
 The dataset is available across multiple platforms for your convenience:
 
-* **Hugging Face**: [HankYang428/GENIUS](https://huggingface.co/datasets/HankYang428/GENIUS)
+* **Hugging Face**: [GENIUS](https://huggingface.co/datasets/HankYang428/GENIUS)
 * **Google Drive**: [Download Link](https://drive.google.com/file/d/1NAE1nGbYOrvGvimzSCoDVNebvBdGdIpg/view?usp=drive_link)
 * **Baidu Netdisk**: [Download Link](https://pan.baidu.com/s/1ON_ryhfzYHQNzex1gEjCGQ?pwd=iek1) (Password: `iek1`)
 
@@ -45,7 +47,7 @@ The dataset is available across multiple platforms for your convenience:
 Clone the repository and prepare your local environment:
 
 ```bash
-git clone [https://github.com/HankYang428/GENIUS.git](https://github.com/HankYang428/GENIUS.git)
+git clone [https://github.com/arctanxarc/GENIUS.git](https://github.com/arctanxarc/GENIUS.git)
 cd GENIUS
 ```
 
