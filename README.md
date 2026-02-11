@@ -48,7 +48,7 @@ The dataset is available across multiple platforms for your convenience:
 Clone the repository and prepare your local environment:
 
 ```bash
-git clone [https://github.com/arctanxarc/GENIUS.git](https://github.com/arctanxarc/GENIUS.git)
+git clone https://github.com/arctanxarc/GENIUS.git
 cd GENIUS
 ```
 
@@ -109,6 +109,9 @@ The dataset and code are released under **CC-BY-NC 4.0** and are intended for ac
 
 ## 📝 Citation
 
+```text
+
+```
 
 ## 📬 Contact
 
