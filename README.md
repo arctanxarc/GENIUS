@@ -3,7 +3,7 @@
 🧠 GENIUS: Generative Fluid Intelligence Evaluation Suite
 </h1>
 
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://github.com/arctanxarc/GENIUS) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange)](https://huggingface.co/datasets/HankYang428/GENIUS) 
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/pdf/2602.11144) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange)](https://huggingface.co/datasets/HankYang428/GENIUS) 
 
 </div>
 
@@ -18,7 +18,7 @@ PKU, CUHK, StepFun, PolyU, MSRA.
 </div>
 
 <p align="center">
-  <a href="https://github.com/arctanxarc/GENIUS/blob/5837bd987b138ad0631115671d5f98e60b44ac1d/GENIUS.pdf"><b>📄 Paper</b></a> |
+  <a href="https://arxiv.org/pdf/2602.11144"><b>📄 Paper</b></a> |
   <a href="#-quick-start"><b>🚀 Quick Start</b></a> |
   <a href="#1-download-the-test-dataset"><b>📦 Dataset</b></a> |
   <a href="#-license"><b>📜 License</b></a> |
@@ -110,7 +110,15 @@ The dataset and code are released under **CC-BY-NC 4.0** and are intended for ac
 ## 📝 Citation
 
 ```text
-
+@misc{an2026geniusgenerativefluidintelligence,
+      title={GENIUS: Generative Fluid Intelligence Evaluation Suite}, 
+      author={Ruichuan An and Sihan Yang and Ziyu Guo and Wei Dai and Zijun Shen and Haodong Li and Renrui Zhang and Xinyu Wei and Guopeng Li and Wenshan Wu and Wentao Zhang},
+      year={2026},
+      eprint={2602.11144},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.11144}, 
+}
 ```
 
 ## 📬 Contact
