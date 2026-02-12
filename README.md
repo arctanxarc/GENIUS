@@ -18,7 +18,7 @@ PKU, CUHK, StepFun, PolyU, MSRA.
 </div>
 
 <p align="center">
-  <a href="https://arxiv.org/pdf/2602.11144"><b>📄 Paper</b></a> |
+  <a href="https://chawuciren11.github.io/GENIUS/"><b>📄 Blog</b></a> |
   <a href="#-quick-start"><b>🚀 Quick Start</b></a> |
   <a href="#1-download-the-test-dataset"><b>📦 Dataset</b></a> |
   <a href="#-license"><b>📜 License</b></a> |
